@@ -2,6 +2,7 @@
   padding: 1rem;
   border: 1px solid #7a7a7a;
   border-radius: 5px;
+  min-width: 270px;
   width: 24%;
   margin: 0.5%;
 }
